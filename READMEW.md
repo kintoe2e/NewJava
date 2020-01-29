@@ -2,7 +2,6 @@
 
 
 
-
 This repository has a basic example of creating an HTTP server with java that is compatible on KintoHub.
 
 The requirements are as follows::
